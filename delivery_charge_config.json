@@ -1,0 +1,22 @@
+{
+  "0": {
+    "start_distance" : 0,
+    "end_distance" : 10000,
+    "charge": 5000
+  },
+  "1": {
+    "start_distance" : 10000,
+    "end_distance" : 20000,
+    "charge": 10000
+  },
+  "2": {
+    "start_distance" : 20000,
+    "end_distance" : 50000,
+    "charge": 50000
+  },
+  "3": {
+    "start_distance" : 50000,
+    "end_distance" : 1000000000,
+    "charge": 100000
+  }
+}
